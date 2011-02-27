@@ -1,0 +1,4 @@
+Gate
+
+Minecraft Bukkit plugin.
+When a fence is placed next to a wooden door, the top of the door disappears, giving a reasonably nice gate. When all fences next to the gate are destroyed, it returns to door form.
